@@ -1,0 +1,14 @@
+# image and models folders
+input/
+output/
+models/
+
+# folders created by wandb
+*artifacts
+*wandb
+
+# folders created by sys.path.append
+*__pycache__
+
+# trial notebook
+notebooks/trials
