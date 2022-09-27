@@ -54,7 +54,6 @@ pillow==9.1.1
 pip==22.1
 promise==2.3
 prompt-toolkit==3.0.29
-protobuf==3.20.1
 psutil==5.9.0
 pure-eval==0.2.2
 pyasn1-modules==0.2.8
