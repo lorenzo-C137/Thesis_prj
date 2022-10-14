@@ -1,2 +1,3 @@
 # Thesis_prj
-Deep learning project on semantic segmentation of microglia cells from mouse spinal cord sections
+Deep learning project on semantic segmentation of microglia cells from mouse spinal cord sections in collaboration with CNR(National Research Council of Italy) and Mario Negri institute. In particular it regarded the implementation of an automated preprocessing-prediction-postprocessing pipeline for bioimages. The goal concerned the segmentation of mouse microglia cells coming from spinal cord sections, starting with microglia and nuclei sections images as inputs.
+Results: previous method (manual segmentation) took days for a single section, the proposed method (DL model) takes less than 5 minutes per section with consumer hardware.
